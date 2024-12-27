@@ -23,7 +23,7 @@ export default function Navbar({ currentTab, onTabChange }: NavbarProps) {
               onToggle={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
               onTabChange={onTabChange}
             />
-            <h1 className="text-xl font-semibold text-gray-900 dark:text-white">Ashmit Analytics</h1>
+            <h1 className="text-xl font-semibold text-gray-900 dark:text-white">Asmit Analytics</h1>
           </div>
 
           <div className="flex items-center space-x-4">
